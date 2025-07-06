@@ -1,32 +1,31 @@
-# 👋 Hi, I'm David Ojimaojo Onuche
+# 👋 Hi, I am David Onuche
 
 **Senior Software Developer | Digital Entrepreneur | Tech Strategist | Nation Builder**
 
-I'm a passionate and mission-driven Nigerian developer, entrepreneur, and visionary leader using **technology, business, politics, and faith** to drive transformational change.
+I am a passionate and mission-driven developer, entrepreneur, and visionary leader using **technology, business, politics, and faith** to drive transformational change.
 
 ---
 
 ## 👨🏽‍💻 About Me
 
-- 🔭 I build **robust cross-platform apps** using Flutter & Firebase  
-- 🚀 I run multiple **digital ventures** aimed at solving real-world problems across Africa  
-- 🧠 I’m passionate about mentoring and helping people grow from **nothing to something**  
-- 🛠️ Currently working on:
-  - Multi-app platforms (User, Seller, Rider, Admin)
+-  I build **robust cross-platform apps** using Flutter & Firebase  
+-  I run multiple **digital ventures** aimed at solving real-world problems across the World  
+-  I am passionate about mentoring and helping people grow from **nothing to something**  
+-   Currently working on:
+  - Multi-app platforms (User, Merchant, Rider, Admin)
   - Scalable Firebase architectures
   - UI/UX systems in Flutter for complex use-cases
 
 ### 💡 My 4 Life Pillars:
-- **Tech** → [LinkedIn](https://linkedin.com/in/david-onuche-4b0782239/)  
-- **Politics** → [Twitter](https://twitter.com/davidonuche0)  
-- **Business** → [Instagram](https://instagram.com/davidonuche)  
-- **Faith** → [TikTok](https://tiktok.com/@iamdavidonuche) | [YouTube](https://youtube.com/@iamdavidonuche)
+- **Tech** → [LinkedIn](https://www.linkedin.com/in/iamdavidonuche-4b0782239/)  
+- **Politics** → [Twitter](https://x.com/iamdavidonuche)  
+- **Business** → [Instagram](https://www.instagram.com/iamdavidonuche/)  
+- **Faith** → [TikTok](https://www.tiktok.com/@iamdavidonuche)
+- **All Round** → [YouTube](https://youtube.com/@iamdavidonuche)
+- **Website** → [iamdavidonuche.com](https://iamdavidonuche.com)
 
-🌐 All my platforms: [iamdavidonuche.com](https://iamdavidonuche.com)
-
-📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/david-onuche-4b0782239/)  
-⚡ **Fun fact:** "Coding is simple — that's why it's complicated."  
-💻 **My Weapon of Choice:** HP Pavilion
+📫 **How to reach me:** [Gmail](iamdavidonuche@gmail.com)  
+⚡ **Fun fact:** "Coding is simple — that is why it is complicated."
 
 ---
 
