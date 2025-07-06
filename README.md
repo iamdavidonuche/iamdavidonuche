@@ -16,13 +16,15 @@ I am a passionate and mission-driven developer, entrepreneur, and visionary lead
   - Scalable Firebase architectures
   - UI/UX systems in Flutter for complex use-cases
 
-### 💡 My 4 Life Pillars:
+### 💡 My Life Pillars:
 - **Tech** → [LinkedIn](https://www.linkedin.com/in/iamdavidonuche-4b0782239/)  
 - **Politics** → [Twitter](https://x.com/iamdavidonuche)  
 - **Business** → [Instagram](https://www.instagram.com/iamdavidonuche/)  
 - **Faith** → [TikTok](https://www.tiktok.com/@iamdavidonuche)
 - **All Round** → [YouTube](https://youtube.com/@iamdavidonuche)
 - **Website** → [iamdavidonuche.com](https://iamdavidonuche.com)
+
+  
 
 📫 **How to reach me:** [Gmail](iamdavidonuche@gmail.com)  
 ⚡ **Fun fact:** "Coding is simple — that is why it is complicated."
