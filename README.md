@@ -1,8 +1,8 @@
 # 👋 Hi, I am David Onuche
 
-**Senior Software Developer | Digital Entrepreneur | Tech Strategist | Nation Builder**
+**Senior Software Developer | Tech Strategist | Nation Builder**
 
-I am a passionate and mission-driven developer, entrepreneur, and visionary leader using **technology, business, politics, and faith** to drive transformational change.
+I am a passionate and mission-driven developer, and visionary leader using **technology** to drive transformational change.
 
 ---
 
